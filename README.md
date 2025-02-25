@@ -75,6 +75,9 @@ Saída: Exibir "Número Par" ou "Número Ímpar"
 
 Fim
 
+![image](https://github.com/user-attachments/assets/4ae29c9d-490c-4f92-83a8-07b85ddf41b0)
+
+
 - **Algoritmo de Busca Linear**:
 O sistema percorre todos os elementos da lista, se o número procurado for encontrado, o sistema exibe a posição do número, se o número não for encontrado, ele exibe uma mensagem de "não encontrado".
 
@@ -96,7 +99,9 @@ Se Não, ir para o passo 5
 Processo: Ir para o próximo número da lista
 
 Fim
-  
+
+  ![image](https://github.com/user-attachments/assets/ec88083e-f034-474f-9e00-7bb6e1ba3539)
+
 
 
 ### Ferramentas que podem ser utilizadas para criar fluxogramas. 
@@ -109,5 +114,8 @@ Fim
 - Se quiser algo mais **simples** existe a ferramenta **Draw.io (atualmente chamado diagrams.net)** que é uma ferramenta gratuita e online onde fornece uma interface simples e prática e não exige cadrasto
 
   ![image](https://github.com/user-attachments/assets/5d8bcd43-9714-41e2-865a-5eef902ffe6a)        ![image](https://github.com/user-attachments/assets/11f0ec09-3222-4a2c-b75a-a7cfe555d329)
+
+  ### Conclusão
+  Os **fluxogramas** são ferramentas essenciais no desenvolvimento de sistemas, pois ajudam a **visualizar processos** e **organizar a lógica** de forma simples. Eles **facilitam a comunicação** entre equipes, **identificam erros e melhorias** antes da implementação e **melhoram o planejamento** do sistema. Além disso, servem como **documentação visual**, o que facilita a **manutenção** e futuras modificações. Em resumo, fluxogramas aumentam a **eficiência**, **qualidade** e **clareza** no desenvolvimento de sistemas.
 
 
