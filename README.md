@@ -54,15 +54,8 @@ Representa a direção do fluxo de informações ou de atividades, ou seja, indi
 
 ### Exemplos de fluxogramas aplicados à lógica de programação (mínimo de 2 exemplos)
 
-- **Algoritmo de Verificação de Número Par ou Ímpar**
-  Passos:
-
-O usuário fornece um número.
-
-O sistema divide o número por 2 e verifica o resto da divisão.
-
-Se o resto for zero, o número é par. Caso contrário, é ímpar.
-
+- **Algoritmo de Verificação de Número Par ou Ímpar**:
+O usuário fornece um número, o sistema divide o número por 2 e verifica o resto da divisão, se o resto for zero, o número é par. Caso contrário, é ímpar.
 
 **Fluxograma:**
 
@@ -82,9 +75,39 @@ Saída: Exibir "Número Par" ou "Número Ímpar"
 
 Fim
 
-- **Algoritmo de Busca Linear**
-  
+- **Algoritmo de Busca Linear**:
+O sistema percorre todos os elementos da lista, se o número procurado for encontrado, o sistema exibe a posição do número, se o número não for encontrado, ele exibe uma mensagem de "não encontrado".
+
+
+**Fluxograma:**
+
+Início
+
+Entrada: Solicitar lista de números e o número a ser procurado
+
+Processo: Iniciar com o primeiro número da lista
+
+Decisão: O número atual da lista é igual ao número procurado?
+
+Se Sim, exibir a posição e ir para o passo 6
+
+Se Não, ir para o passo 5
+
+Processo: Ir para o próximo número da lista
+
+Fim
   
 
 
 ### Ferramentas que podem ser utilizadas para criar fluxogramas. 
+- Uma das ferramentas mais utilizadas para uma criação de fluxogramas é o **Lucidcharth** que é uma das mais populares para essa criação, fornece interface intuitiva, funcionalidade de colaboração em tempo real e modelos prontos para fluxogramas.
+![image](https://github.com/user-attachments/assets/0b0bd972-e1ea-4aeb-825f-ec39a4e0750a)         ![image](https://github.com/user-attachments/assets/2cd5f3cb-1e3f-4c70-9253-84366745b93d)
+
+
+  
+
+- Se quiser algo mais **simples** existe a ferramenta **Draw.io (atualmente chamado diagrams.net)** que é uma ferramenta gratuita e online onde fornece uma interface simples e prática e não exige cadrasto
+
+  ![image](https://github.com/user-attachments/assets/5d8bcd43-9714-41e2-865a-5eef902ffe6a)        ![image](https://github.com/user-attachments/assets/11f0ec09-3222-4a2c-b75a-a7cfe555d329)
+
+
