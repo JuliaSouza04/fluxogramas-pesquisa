@@ -115,5 +115,14 @@ Fim
 
   ![image](https://github.com/user-attachments/assets/5d8bcd43-9714-41e2-865a-5eef902ffe6a)        ![image](https://github.com/user-attachments/assets/11f0ec09-3222-4a2c-b75a-a7cfe555d329)
 
-  ### Conclusão
+
+# Prática
+**verificar se um número é par ou ímpar**
+
+![image](https://github.com/user-attachments/assets/64ddcf6b-929f-4018-90e6-e2b7a3335b8f)
+
+
+**fluxo de cadastro de usuário**
+
+   ### Conclusão
  Os fluxogramas são super úteis no desenvolvimento de sistemas, pois ajudam a visualizar e organizar os processos de forma simples, eles facilitam a comunicação entre as equipes, ajudam a identificar problemas antes de começar a codificar e tornam o planejamento mais claro, também servem como uma documentação visual, o que facilita a manutenção e alterações futuras. No final, os fluxogramas tornam o desenvolvimento mais eficiente, claro e de melhor qualidade.
