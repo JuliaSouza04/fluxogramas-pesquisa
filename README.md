@@ -117,12 +117,21 @@ Fim
 
 
 # Prática
-**verificar se um número é par ou ímpar**
+### **verificar se um número é par ou ímpar**
 
 ![image](https://github.com/user-attachments/assets/64ddcf6b-929f-4018-90e6-e2b7a3335b8f)
 
 
-**fluxo de cadastro de usuário**
+### **fluxo de cadastro de usuário**
+
+
+![image](https://github.com/user-attachments/assets/802c7b6f-0d86-4921-85fc-b86f9a8bf42f)
+
+
+### Ferramenta
+Utilizei a ferramenta **Flowgorithm**, foi muito prática e simples de utilizar;
+
+O **Flogorithm** é uma ferramenta visual que ajuda a criar fluxogramas de forma simples, ideal para aprender lógica de programação. Ela permite representar algoritmos de maneira intuitiva e gera código automaticamente, facilitando o entendimento dos conceitos de programação.
 
    ### Conclusão
  Os fluxogramas são super úteis no desenvolvimento de sistemas, pois ajudam a visualizar e organizar os processos de forma simples, eles facilitam a comunicação entre as equipes, ajudam a identificar problemas antes de começar a codificar e tornam o planejamento mais claro, também servem como uma documentação visual, o que facilita a manutenção e alterações futuras. No final, os fluxogramas tornam o desenvolvimento mais eficiente, claro e de melhor qualidade.
